@@ -1,8 +1,11 @@
 # test
 Mi "primer" repositorio en Github
 
-Commit 7
+Ejercicio 1
+ asas
 
-Commit 8
+Ejercicio 2
+ asas
 
-test
+Ejercicio 3 
+ asas
