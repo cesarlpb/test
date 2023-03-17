@@ -1,4 +1,2 @@
 # test
-Mi "primer" repositorio
-
-Hola:)
+Mi "primer" repositorio en Github
